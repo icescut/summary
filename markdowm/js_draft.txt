@@ -1,0 +1,3 @@
+函数提升
+Callee,caller以及在严格模式下
+Apply vs call
