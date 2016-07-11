@@ -1,3 +1,12 @@
 函数提升
 Callee,caller以及在严格模式下
 Apply vs call
+slice vs substring vs substr
+toFixed vs toExponential vs toPrecision
+章节分语法，基本类型（包装类），引用类型
+命名函数表达式的作用
+闭包与作用域链
+全局变量与window的属性
+最好用超时代替间隔
+能力检测，最好用type of
+用户代理检测，主要问题是模仿浏览器
